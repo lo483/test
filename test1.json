@@ -1,0 +1,53 @@
+{
+
+    "banner_position":1, 
+
+    "num_of_native_ad":3,
+
+    "ad_type":0, 
+
+    "interstitial_count":5,
+
+    "radio_click_enable":true, 
+
+    "admob_app":"ca-app-pub-5495676516426812~4858442809",
+
+    "admob_banner":"ca-app-pub-5495676516426812/1318706946",
+
+    "admob_interstitial":"ca-app-pub-5495676516426812/9360848498",
+
+    "admob_native":"ca-app-pub-5495676516426812/7202608847",
+
+    "fb_banner":"317694586188070_317694896188039",
+
+    "fb_interstitial":"",
+
+    "fb_native":"",
+
+
+
+    "stations_url":"http://radio.azrotv.com/data.json",
+
+    "contact":"mailto:contact@azrotv.com",
+
+    "website":"http://azrotv.com/radio/apps/pages/radio-arab/",
+
+    "telegram":"https://t.me/oui9mobi",
+
+    "facebook":"https://www.facebook.com/oui9mobi/",
+
+    "report":"http://radio.azrotv.com/contactus/",
+
+    "add_station_url":"http://radio.azrotv.com/contactus/addstion.php",
+
+    "force_update":false,
+
+    "update_url":"",
+
+    "version_name":"",
+
+    "update_message":""
+
+
+
+}
